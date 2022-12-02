@@ -19,6 +19,13 @@
             |_|_| |_|  |_|_|_\_____|_| |_|\__  |   \_)_____|_| |_|\___ (___/ 
                                          (____/                  (_____|     
 
-# fizzbuzz: the classic algorithm implemented across different languages and approaches...
-
+# fizzbuzz: in different languages, with different approaches...
+### still in draft stage ###
 *all written in either vim or helix to improve my current keymap and muscle memory*
+
+Languages|Status
+:-----:|:-----:
+python|planned
+assembly|planned
+rust|planned
+C|planned
