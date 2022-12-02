@@ -25,7 +25,7 @@
 
 Languages|Status
 :-----:|:-----:
-python|planned
+python|conditional and 1 line solutions
 assembly|planned
 rust|planned
 C|planned
