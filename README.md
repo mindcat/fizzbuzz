@@ -29,3 +29,6 @@ python|conditional and 1 line solutions
 assembly|planned
 rust|planned
 C|planned
+APL|planned
+haskell|planned
+
